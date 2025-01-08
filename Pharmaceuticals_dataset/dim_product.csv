@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Product_Type,Therapeutic_Area,Manufacturer
+1,Product_1,Tablet,Cardiology,"Bhalla, Arora and Shanker"
+2,Product_2,Syrup,Neurology,Das-Choudhury
+3,Product_3,Capsule,Neurology,Shan Inc
+4,Product_4,Tablet,Pediatrics,"Shanker, Walla and Mahajan"
+5,Product_5,Tablet,Pediatrics,Rajagopal Group
+6,Product_6,Injection,Cardiology,Aurora Inc
+7,Product_7,Tablet,Cardiology,Dada PLC
+8,Product_8,Capsule,Neurology,"Arya, Mand and Chaudhary"
+9,Product_9,Cream,Pediatrics,"Sachar, Sarna and Mahajan"
+10,Product_10,Tablet,Pediatrics,Choudhary-Kapur
+11,Product_11,Capsule,Pediatrics,"Dewan, Tailor and Virk"
+12,Product_12,Injection,Neurology,Sibal and Sons
+13,Product_13,Injection,Pediatrics,"Kakar, Garde and Dewan"
+14,Product_14,Syrup,Cardiology,Chokshi LLC
+15,Product_15,Capsule,Oncology,Batra Group
+16,Product_16,Syrup,Dermatology,Gola LLC
+17,Product_17,Capsule,Neurology,"Deo, Swamy and Bains"
+18,Product_18,Syrup,Cardiology,"Karpe, Loyal and Bhatia"
+19,Product_19,Tablet,Oncology,Baral-Majumdar
+20,Product_20,Tablet,Dermatology,Thakkar-Ratti
+21,Product_21,Syrup,Pediatrics,"Wali, Venkataraman and Golla"
+22,Product_22,Syrup,Cardiology,"Char, Sarraf and Banerjee"
+23,Product_23,Injection,Pediatrics,Sahota and Sons
+24,Product_24,Tablet,Oncology,Baral-Varma
+25,Product_25,Tablet,Pediatrics,Verma Inc
+26,Product_26,Syrup,Pediatrics,Dewan-Karan
+27,Product_27,Syrup,Pediatrics,"Tiwari, Gopal and Bumb"
+28,Product_28,Capsule,Cardiology,Goel-Cheema
+29,Product_29,Tablet,Neurology,"Deol, Sarna and Sanghvi"
+30,Product_30,Syrup,Cardiology,"Banik, Ramanathan and Ravi"
+31,Product_31,Capsule,Cardiology,Loke Ltd
+32,Product_32,Injection,Dermatology,Bumb Group
+33,Product_33,Injection,Dermatology,Deshmukh-Reddy
+34,Product_34,Capsule,Dermatology,"Mallick, Choudhary and Sani"
+35,Product_35,Syrup,Neurology,Upadhyay-Sodhi
+36,Product_36,Syrup,Cardiology,Contractor Inc
+37,Product_37,Cream,Neurology,Iyer-Desai
+38,Product_38,Cream,Neurology,Cherian PLC
+39,Product_39,Capsule,Oncology,"Dugar, Cherian and Sagar"
+40,Product_40,Injection,Dermatology,Hora-Wagle
+41,Product_41,Cream,Neurology,"Karnik, Bora and Deo"
+42,Product_42,Syrup,Cardiology,Dasgupta Ltd
+43,Product_43,Capsule,Cardiology,"Luthra, Deep and Shenoy"
+44,Product_44,Syrup,Oncology,"Kala, Yadav and Manne"
+45,Product_45,Syrup,Cardiology,Golla-Choudhary
+46,Product_46,Capsule,Pediatrics,Kumar Group
+47,Product_47,Syrup,Neurology,Shroff Inc
+48,Product_48,Injection,Oncology,Bose Ltd
+49,Product_49,Injection,Neurology,Sule Ltd
+50,Product_50,Syrup,Neurology,Raju-Balay
+51,Product_51,Capsule,Pediatrics,Halder-Raju
+52,Product_52,Cream,Dermatology,Lalla-Dass
+53,Product_53,Cream,Oncology,"Vasa, Ahluwalia and Sangha"
+54,Product_54,Cream,Oncology,"Bhandari, Sanghvi and Wali"
+55,Product_55,Syrup,Neurology,"Sheth, Deol and Sodhi"
+56,Product_56,Capsule,Pediatrics,"Garde, Bhalla and Din"
+57,Product_57,Injection,Cardiology,Brar-Karan
+58,Product_58,Tablet,Cardiology,Sen Ltd
+59,Product_59,Capsule,Neurology,Krishna-Singh
+60,Product_60,Injection,Pediatrics,Kulkarni Inc
+61,Product_61,Tablet,Oncology,"Dixit, Trivedi and Reddy"
+62,Product_62,Injection,Pediatrics,"Ramanathan, Chaudhary and Bose"
+63,Product_63,Injection,Pediatrics,Singh-Buch
+64,Product_64,Syrup,Pediatrics,"Sood, Lanka and Acharya"
+65,Product_65,Tablet,Cardiology,"Edwin, Konda and Andra"
+66,Product_66,Cream,Dermatology,Golla LLC
+67,Product_67,Syrup,Cardiology,Balakrishnan and Sons
+68,Product_68,Syrup,Oncology,"Baral, Basak and Setty"
+69,Product_69,Capsule,Oncology,Tandon-Banerjee
+70,Product_70,Tablet,Dermatology,"Sinha, Bhatnagar and Bhatt"
+71,Product_71,Cream,Neurology,"Khanna, Maharaj and Butala"
+72,Product_72,Cream,Cardiology,Lalla-Viswanathan
+73,Product_73,Syrup,Pediatrics,"Kakar, Cherian and Madan"
+74,Product_74,Cream,Neurology,"Sant, Chaudhry and Saxena"
+75,Product_75,Capsule,Dermatology,Iyengar-Sampath
+76,Product_76,Capsule,Pediatrics,"Grover, Kanda and Yogi"
+77,Product_77,Cream,Cardiology,"Kara, Bhasin and Dasgupta"
+78,Product_78,Cream,Dermatology,Balay LLC
+79,Product_79,Injection,Cardiology,Raja PLC
+80,Product_80,Tablet,Dermatology,Raja and Sons
+81,Product_81,Syrup,Neurology,Banik Ltd
+82,Product_82,Tablet,Neurology,"Balan, Contractor and Bandi"
+83,Product_83,Cream,Cardiology,Vasa LLC
+84,Product_84,Tablet,Oncology,Kurian and Sons
+85,Product_85,Tablet,Pediatrics,Sami-Kibe
+86,Product_86,Capsule,Neurology,Madan and Sons
+87,Product_87,Injection,Pediatrics,"Wadhwa, Mangal and Mani"
+88,Product_88,Capsule,Dermatology,Dara-Srinivasan
+89,Product_89,Cream,Pediatrics,Swamy-Jani
+90,Product_90,Injection,Neurology,Batta Inc
+91,Product_91,Cream,Neurology,"Kale, Goel and Kakar"
+92,Product_92,Syrup,Oncology,Kaur-Venkatesh
+93,Product_93,Syrup,Oncology,"Bala, Samra and Sachdeva"
+94,Product_94,Cream,Oncology,"Bawa, Balasubramanian and Jaggi"
+95,Product_95,Tablet,Neurology,"Gara, Sura and Venkataraman"
+96,Product_96,Capsule,Cardiology,Dash and Sons
+97,Product_97,Syrup,Cardiology,Loyal Group
+98,Product_98,Cream,Pediatrics,Kakar and Sons
+99,Product_99,Capsule,Pediatrics,Kashyap-Dash
+100,Product_100,Capsule,Cardiology,Kant PLC
